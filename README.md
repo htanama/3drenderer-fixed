@@ -7,3 +7,5 @@ While each new version of GCC introduces stricter checks and better compliance w
 
 I compiled the source code using GCC-9.3.0 and it is compiling, Newer GCC compiler will break the compilation and texture rendering will be an issue. 
 I cannot render red brick texture compiling using GCC 12 and newer. 
+
+![Image](https://github.com/user-attachments/assets/3af4d81b-909d-4820-96d4-73ed0b5abb87)
